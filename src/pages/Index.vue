@@ -5,7 +5,7 @@
                 <h1 class="mb-4">Gastón García</h1>
 
                 <div class="col-md-6 mb-4">
-                  <g-image src="@/assets/gaston-garcia-foto.jpg" class="img-fluid rounded"/>
+                  <g-image src="~/assets/gaston-garcia-foto.jpg" class="img-fluid rounded"/>
                 </div>
 
                 <p>
