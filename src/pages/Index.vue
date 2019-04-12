@@ -4,6 +4,9 @@
             <div class="col-md-6 mx-auto mt-5 mb-4">
                 <h1 class="mb-4">Gastón García</h1>
 
+                <div class="col-md-6 mb-4">
+                  <g-image src="~/assets/gaston-garcia-foto.jpg" class="img-fluid rounded"/>
+                </div>
 
                 <p>
                     Soy un consultor, diseñador y desarrollador web. Me gusta abordar proyectos web de forma metódica. Disfruto de
