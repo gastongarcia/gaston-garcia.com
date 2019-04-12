@@ -6,5 +6,12 @@
 
 module.exports = {
   siteName: 'gaston-garcia.com',
-  plugins: []
+  plugins: [
+    {
+      use: '@gridsome/plugin-google-analytics',
+      options: {
+        id: 'UA-138241855-1'
+      }
+    }
+  ]
 }
