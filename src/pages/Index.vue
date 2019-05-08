@@ -2,9 +2,9 @@
   <div class="container">
         <div class="row">
             <div class="col-md-6 mx-auto mt-5 mb-4">
-                <h1 class="mb-4">Gastón García</h1>
+                <h1 class="mb-5">Gastón García</h1>
 
-                <div class="col-md-6 mb-4">
+                <div class="col-10 col-md-6 mb-5">
                   <g-image src="~/gaston-garcia-foto.jpg" class="img-fluid rounded"/>
                 </div>
 
